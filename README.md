@@ -32,8 +32,7 @@ Analyse approfondie des risques éthiques, sociaux et environnementaux de l'inte
 > > - Épuisement métaux rares (lithium, cobalt)
 > > - Déchets électroniques et pollution de l'eau
 
-## 3- Présentation
-​
+## 3- Présentation​
 ### Structure en 6 slides percutants :
 >1. Titre + Sommaire
 >2. Désinformation & Deepfakes (exemples concrets)
